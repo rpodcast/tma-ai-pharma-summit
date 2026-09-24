@@ -1,6 +1,6 @@
 ## Trusted Mini-Agents 
 
-This repository contains the materials shared during the Validated AI for Pharma Summit (2026-09-24):
+This repository contains the materials of the presentation **Trusted Mini-Agents: Leveraging AI Where Correctness Matters** shared during the Validated AI for Pharma Summit (2026-09-24)
 
 * Slides authored by Will Landau are available in the `assets` folder of this repository.
 * Example Shiny application performing a basic clinical trial simulation using the trusted mini-agents workflow. This application is copied from the upstream trusted mini-agents guide available at <https://trustedminiagents.dev>.
