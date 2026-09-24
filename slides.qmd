@@ -1,0 +1,53 @@
+---
+title: "Trusted Mini-Agents"
+author: "Will Landau & Eric Nantz"
+subtitle: "Leveraging AI Where Correctness Matters"
+institute: "Eli Lilly and Company"
+format: 
+  terminal-revealjs:
+    theme:
+      - custom.scss
+    code-line-numbers: false
+    footer: "[trustedminiagents.dev](https://trustedminiagents.dev)"
+date: 2026-09-24
+terminal-path: "trusted-mini-agents"
+---
+
+## Abide by the Rules {terminal-path="introduction"}
+
+::: callouts
+
+- Trusted tools directly produce all results.
+- Each result only comes from one trusted tool.
+- Inputs to trusted tools have trusted human oversight.
+
+:::
+
+## A Case for Shiny (and friends) {terminal-path="template-structure"}
+
+![](img/template_app.png)
+
+## Ingredients {terminal-path="template-structure"}
+
+::: callouts
+
+- User interface powered by `{shinychat}`
+- {ellmer} chat object with declared tools
+- R functions serving as foundation for tools
+- `reactiveValues` storing results of tool calls 
+
+:::
+
+## Demo Time! {terminal-path="demo"}
+
+![](img/sim_app.png)
+
+## Resources
+
+::: callouts
+
+- Trusted Mini-Agents guide: [trustedminiagents.dev](https://trustedminiagents.dev)
+- {ellmer}: [ellmer.tidyverse.org/](https://ellmer.tidyverse.org/)
+- {shinychat}: [posit-dev.github.io/shinychat](https://posit-dev.github.io/shinychat)
+:::
+
