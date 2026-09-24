@@ -1,7 +1,7 @@
 ---
-title: "Trusted Mini-Agents"
+title: "Guardrails, Not Guesswork"
 author: "Will Landau & Eric Nantz"
-subtitle: "Leveraging AI Where Correctness Matters"
+subtitle: "Harnessing the Power of AI Responsibly with Trusted Mini-Agents"
 institute: "Eli Lilly and Company"
 format: 
   terminal-revealjs:
@@ -46,8 +46,8 @@ terminal-path: "trusted-mini-agents"
 
 ::: callouts
 
-- Trusted Mini-Agents guide: [trustedminiagents.dev](https://trustedminiagents.dev)
-- {ellmer}: [ellmer.tidyverse.org/](https://ellmer.tidyverse.org/)
+- Trusted Mini-Agents Guide: [trustedminiagents.dev](https://trustedminiagents.dev)
+- {ellmer}: [ellmer.tidyverse.org/](https://ellmer.tidyverse.org)
 - {shinychat}: [posit-dev.github.io/shinychat](https://posit-dev.github.io/shinychat)
 - Presentation materials available on GitHub: [github.com/rpodcast/tma-ai-pharma-summit](https://github.com/rpodcast/tma-ai-pharma-summit/tree/main)
 :::
