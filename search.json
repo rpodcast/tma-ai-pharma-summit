@@ -2,36 +2,36 @@
   {
     "objectID": "slides.html#abide-by-the-rules",
     "href": "slides.html#abide-by-the-rules",
-    "title": "Trusted Mini-Agents",
+    "title": "Guardrails, Not Guesswork",
     "section": "Abide by the Rules",
     "text": "Abide by the Rules\n\n\nTrusted tools directly produce all results.\nEach result only comes from one trusted tool.\nInputs to trusted tools have trusted human oversight.\n\n\n\n&gt;introduction\n\n\n01 / 05press → to continue"
   },
   {
     "objectID": "slides.html#a-case-for-shiny-and-friends",
     "href": "slides.html#a-case-for-shiny-and-friends",
-    "title": "Trusted Mini-Agents",
+    "title": "Guardrails, Not Guesswork",
     "section": "A Case for Shiny (and friends)",
     "text": "A Case for Shiny (and friends)\n\n\n&gt;template-structure\n\n\n02 / 05press → to continue"
   },
   {
     "objectID": "slides.html#ingredients",
     "href": "slides.html#ingredients",
-    "title": "Trusted Mini-Agents",
+    "title": "Guardrails, Not Guesswork",
     "section": "Ingredients",
     "text": "Ingredients\n\n\nUser interface powered by {shinychat}\n{ellmer} chat object with declared tools\nR functions serving as foundation for tools\nreactiveValues storing results of tool calls\n\n\n\n&gt;template-structure\n\n\n03 / 05press → to continue"
   },
   {
     "objectID": "slides.html#demo-time",
     "href": "slides.html#demo-time",
-    "title": "Trusted Mini-Agents",
+    "title": "Guardrails, Not Guesswork",
     "section": "Demo Time!",
     "text": "Demo Time!\n\n\n&gt;demo\n\n\n04 / 05press → to continue"
   },
   {
     "objectID": "slides.html#resources",
     "href": "slides.html#resources",
-    "title": "Trusted Mini-Agents",
+    "title": "Guardrails, Not Guesswork",
     "section": "Resources",
-    "text": "Resources\n\n\nTrusted Mini-Agents guide: trustedminiagents.dev\n{ellmer}: ellmer.tidyverse.org/\n{shinychat}: posit-dev.github.io/shinychat\nPresentation materials available on GitHub: github.com/rpodcast/tma-ai-pharma-summit\n\n\n\n\n\n&gt;trusted-mini-agents\n\n\n05 / 05press → to continue"
+    "text": "Resources\n\n\nTrusted Mini-Agents Guide: trustedminiagents.dev\n{ellmer}: ellmer.tidyverse.org/\n{shinychat}: posit-dev.github.io/shinychat\nPresentation materials available on GitHub: github.com/rpodcast/tma-ai-pharma-summit\n\n\n\n\n\n&gt;trusted-mini-agents\n\n\n05 / 05press → to continue"
   }
 ]
