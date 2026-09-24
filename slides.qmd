@@ -47,7 +47,7 @@ terminal-path: "trusted-mini-agents"
 ::: callouts
 
 - Trusted Mini-Agents Guide: [trustedminiagents.dev](https://trustedminiagents.dev)
-- {ellmer}: [ellmer.tidyverse.org/](https://ellmer.tidyverse.org)
+- {ellmer}: [ellmer.tidyverse.org](https://ellmer.tidyverse.org)
 - {shinychat}: [posit-dev.github.io/shinychat](https://posit-dev.github.io/shinychat)
 - Presentation materials available on GitHub: [github.com/rpodcast/tma-ai-pharma-summit](https://github.com/rpodcast/tma-ai-pharma-summit/tree/main)
 :::
